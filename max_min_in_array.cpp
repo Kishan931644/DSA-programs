@@ -4,7 +4,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    int arr[] = {10, 20, 40, 60};
+    int arr[] = {10, 5, 820, 98};
     int min = arr[0];
     int max = arr[0];
 
